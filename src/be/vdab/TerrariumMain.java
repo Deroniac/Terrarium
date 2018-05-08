@@ -2,7 +2,6 @@ package be.vdab;
 
 import java.util.Scanner;
 
-import be.vdab.terrarium.Organism;
 import be.vdab.terrarium.Terrarium;
 
 public class TerrariumMain {
